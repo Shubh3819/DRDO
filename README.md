@@ -8,7 +8,7 @@ type npm i for installing all the dependencies.
 after installing type "npm run dev"
 Your code should work on a local web host.
 
-#-----------ABOUT THE CODE------------------#
+#-----------ABOUT THE CODE------------------------------------------------------------------------------------------------------------------------------------------------#
 The model was made on collab notebook and the model and pkl file was saved.
 The model and pkl file was then loaded and used through flask.
 The flask connected the backend(written in python) to the Frontend which was made in Reactjs
